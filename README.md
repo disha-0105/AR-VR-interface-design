@@ -26,3 +26,4 @@ https://github.com/user-attachments/assets/60e9a0ef-8b97-41e8-a724-10199d28d4c7
 
 STATIC PICTURE OF AR INTERFACE : 
 
+![Image](https://github.com/user-attachments/assets/cdef4a69-3b66-4166-8a2d-d31c186e918f)
