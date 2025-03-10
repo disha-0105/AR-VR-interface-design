@@ -22,3 +22,7 @@ NORMAL INTERFACE :
 
 AR INTERFACE : 
 
+https://github.com/user-attachments/assets/60e9a0ef-8b97-41e8-a724-10199d28d4c7
+
+STATIC PICTURE OF AR INTERFACE : 
+
