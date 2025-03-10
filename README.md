@@ -17,3 +17,8 @@ DESCRIPTION : The AR/VR interface design created for Task-4 of the internship fo
 OUTPUT : 
 
 NORMAL INTERFACE : 
+
+![Image](https://github.com/user-attachments/assets/00f92a10-4763-4221-8f3e-9ea9d74988a7)
+
+AR INTERFACE : 
+
